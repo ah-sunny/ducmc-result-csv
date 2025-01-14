@@ -1,1 +1,105 @@
 Reg;Status;FailSubs;GPA;CGPA
+710;Promoted;;GPA: 2.92;CGPA: 3.16
+711;Promoted;;GPA: 3.70;CGPA: 3.64
+712;Promoted;;GPA: 2.99;CGPA: 3.17
+713;Promoted;;GPA: 2.41;CGPA: 2.49
+714;Promoted;;GPA: 2.15;CGPA: 2.28
+715;Promoted;;GPA: 3.44;CGPA: 3.47
+716;Promoted;;GPA: 2.76;CGPA: 2.96
+717;Promoted;;GPA: 3.36;CGPA: 3.1
+718;Promoted;;GPA: 3.18;CGPA: 3.14
+719;Promoted;;GPA: 3.04;CGPA: 3.06
+720;Promoted;;GPA: 3.02;CGPA: 3.04
+721;Promoted;;GPA: 3.30;CGPA: 3.49
+722;Promoted;;GPA: 3.34;CGPA: 3.31
+723;Absent
+724;Promoted;;GPA: 2.53;CGPA: 2.67
+725;Promoted;;GPA: 3.04;CGPA: 3.33
+726;Absent
+727;Promoted;;GPA: 3.32;CGPA: 3.43
+728;Promoted;;GPA: 2.79;CGPA: 3
+729;Absent
+730;Absent
+731;Absent
+732;Promoted;;GPA: 2.57;CGPA: 2.58
+733;Promoted;;GPA: 3.29;CGPA: 3.19
+734;Promoted;;GPA: 3.15;CGPA: 3.4
+735;Absent
+736;Promoted;;GPA: 2.87;CGPA: 2.72
+737;Promoted;;GPA: 3.12;CGPA: 3.14
+738;Promoted;;GPA: 3.28;CGPA: 3.51
+739;Promoted;;GPA: 3.06;CGPA: 3.06
+740;Promoted;;GPA: 0.84;CGPA: 2.12
+741;Absent
+742;Promoted;;GPA: 3.53;CGPA: 3.42
+743;Promoted;;GPA: 1.99;CGPA: 2.35
+744;Promoted;;GPA: 3.28;CGPA: 3.1
+745;Promoted;;GPA: 1.34;CGPA: 2.35
+746;Promoted;;GPA: 3.43;CGPA: 3.33
+747;Promoted;;GPA: 3.30;CGPA: 3.31
+748;Absent
+749;Promoted;;GPA: 2.13;CGPA: 2.51
+750;Absent
+751;Promoted;;GPA: 3.22;CGPA: 3.05
+752;Promoted;;GPA: 2.20;CGPA: 2.38
+753;Absent
+754;Absent
+755;Promoted;;GPA: 2.66;CGPA: 2.68
+756;Promoted;;GPA: 2.92;CGPA: 2.84
+757;Promoted;;GPA: 3.04;CGPA: 3.04
+758;Promoted;;GPA: 2.14;CGPA: 2.21
+759;Promoted;;GPA: 3.57;CGPA: 3.52
+760;Absent
+761;Promoted;;GPA: 1.89;CGPA: 2.55
+762;Promoted;;GPA: 2.76;CGPA: 2.69
+763;Promoted;;GPA: 3.34;CGPA: 3.25
+764;Promoted;;GPA: 2.83;CGPA: 3.12
+765;Promoted;;GPA: 3.69;CGPA: 3.52
+766;Promoted;;GPA: 3.53;CGPA: 3.53
+767;Promoted;;GPA: 3.62;CGPA: 3.65
+768;Promoted;;GPA: 2.38;CGPA: 2.79
+769;Promoted;;GPA: 2.97;CGPA: 2.96
+770;Promoted;;GPA: 3.79;CGPA: 3.7
+771;Promoted;;GPA: 3.75;CGPA: 3.77
+772;Promoted;;GPA: 2.84;CGPA: 3.06
+773;Promoted;;GPA: 3.22;CGPA: 3.46
+774;Promoted;;GPA: 2.93;CGPA: 2.82
+775;Promoted;;GPA: 2.46;CGPA: 2.89
+776;Promoted;;GPA: 3.53;CGPA: 3.52
+777;Promoted;;GPA: 1.11;CGPA: 2.2
+778;Promoted;;GPA: 3.15;CGPA: 3.27
+779;Promoted;;GPA: 2.62;CGPA: 2.94
+780;Promoted;;GPA: 1.62;CGPA: 2.5
+781;Promoted;;GPA: 2.85;CGPA: 2.83
+782;Promoted;;GPA: 2.58;CGPA: 2.95
+783;Promoted;;GPA: 2.89;CGPA: 2.96
+784;Promoted;;GPA: 3.28;CGPA: 3.29
+785;Promoted;;GPA: 3.26;CGPA: 3.36
+786;Absent
+787;Promoted;;GPA: 2.69;CGPA: 2.74
+788;Promoted;;GPA: 3.03;CGPA: 3.13
+789;Promoted;;GPA: 2.58;CGPA: 2.79
+790;Promoted;;GPA: 3.22;CGPA: 3.08
+791;Promoted;;GPA: 3.07;CGPA: 3.13
+792;Promoted;;GPA: 2.20;CGPA: 2.45
+793;Promoted;;GPA: 2.89;CGPA: 2.77
+794;Promoted;;GPA: 2.89;CGPA: 3.04
+795;Absent
+796;Promoted;;GPA: 3.02;CGPA: 2.67
+797;Absent
+798;Promoted;;GPA: 1.97;CGPA: 2.12
+799;Promoted;;GPA: 2.91;CGPA: 2.92
+800;Promoted;;GPA: 2.44;CGPA: 2.55
+801;Absent
+802;Promoted;;GPA: 3.07;CGPA: 2.81
+803;Absent
+804;Absent
+805;Promoted;;GPA: 3.47;CGPA: 3.44
+806;Promoted;;GPA: 2.24;CGPA: 2.45
+807;Promoted;;GPA: 2.99;CGPA: 2.91
+808;Promoted;;GPA: 3.33;CGPA: 3.24
+809;Promoted;;GPA: 1.94;CGPA: 2.23
+810;Promoted;;GPA: 3.43;CGPA: 3.13
+811;Promoted;;GPA: 2.47;CGPA: 2.98
+812;Promoted;;GPA: 2.79;CGPA: 2.98
+813;Promoted;;GPA: 1.54;CGPA: 2.16

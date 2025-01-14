@@ -156,3 +156,6 @@ while (regi <= end_regi) and (iteration_count < max_iteration):
    driver.refresh()
 
 driver.close()
+
+
+print("Finished!!")
